@@ -1,0 +1,6 @@
+.venv/
+data/chroma/
+.streamlit/secrets.toml
+__pycache__/
+.DS_Store
+WHERE_GO_AH_BUILD_INSTRUCTIONS.md

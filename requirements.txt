@@ -1,0 +1,8 @@
+streamlit>=1.54
+openai
+chromadb
+langchain-text-splitters
+tiktoken
+python-dotenv
+numpy
+pypdf

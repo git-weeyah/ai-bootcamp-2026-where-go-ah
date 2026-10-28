@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="800" height="260">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2d3c6"/><stop offset="1" stop-color="#f7e6cf"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="260" rx="18" fill="url(#sky)"/>
+  <circle cx="690" cy="55" r="30" fill="#ffd166"/>
+  <path d="M0 215h800v45H0z" fill="#d9d9d9"/>
+  <path d="M0 230h800" stroke="#fff" stroke-width="4" stroke-dasharray="26 18"/>
+  <!-- confused citizen -->
+  <circle cx="130" cy="120" r="30" fill="#f4c28b"/>
+  <path d="M100 112q30-40 60 0z" fill="#3b2f2f"/>
+  <circle cx="120" cy="124" r="3.5" fill="#222"/><circle cx="140" cy="124" r="3.5" fill="#222"/>
+  <path d="M118 140q12-8 24 0" stroke="#222" stroke-width="3" fill="none"/>
+  <rect x="105" y="150" width="50" height="62" rx="12" fill="#c93a5a"/>
+  <text x="168" y="78" font-size="34" font-family="sans-serif" fill="#c93a5a">?</text>
+  <text x="90" y="70" font-size="26" font-family="sans-serif" fill="#c93a5a">?</text>
+  <text x="185" y="110" font-size="22" font-family="sans-serif" fill="#c93a5a">?!</text>
+  <!-- arrow -->
+  <path d="M250 150h200" stroke="#118ab2" stroke-width="6" stroke-linecap="round" stroke-dasharray="4 14"/>
+  <path d="M440 135l25 15-25 15z" fill="#118ab2"/>
+  <text x="270" y="130" font-size="20" font-family="sans-serif" fill="#073b4c">"Where go ah??"</text>
+  <!-- agency building -->
+  <rect x="520" y="95" width="170" height="118" fill="#118ab2"/>
+  <path d="M510 95l95-48 95 48z" fill="#073b4c"/>
+  <rect x="540" y="115" width="26" height="30" fill="#ffe8a3"/><rect x="578" y="115" width="26" height="30" fill="#ffe8a3"/>
+  <rect x="616" y="115" width="26" height="30" fill="#ffe8a3"/><rect x="654" y="115" width="26" height="30" fill="#ffe8a3"/>
+  <rect x="587" y="165" width="36" height="48" fill="#073b4c"/>
+  <text x="552" y="82" font-size="14" font-family="sans-serif" fill="#fff" font-weight="bold">CORRECT AGENCY</text>
+  <text x="705" y="160" font-size="40" font-family="sans-serif">✅</text>
+</svg>
